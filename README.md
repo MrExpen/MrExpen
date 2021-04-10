@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrExpen
 - 👀 I’m interested in programming bots end etc.
 - 🌱 I’m currently learning C#
-- 📫 How to reach me https://vk.com/MrExpen
+- 📫 How to reach me https://t.me/MrExpen
