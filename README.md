@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrExpen</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrexpen&label=Profile%20views&color=0e75b6&style=flat" alt="mrexpen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrexpen&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="mrexpen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrexpen" alt="mrexpen" /></a> </p>
 
