@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrExpen
-- 👀 I’m interested in programming bots end etc.
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in programming bots, web APIs end etc.
+- 🌱 I’m currently learning C# (wpf/asp) and software design patterns.
 - 📫 How to reach me https://t.me/MrExpen
