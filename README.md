@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://instagram.com/mrexpen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrexpen_" height="30" width="40" /></a>
 <a href="https://discord.gg/WVFYM3kx9M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WVFYM3kx9M" height="30" width="40" /></a>
+<a href="https://vk.com/mrexpen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrexpen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
